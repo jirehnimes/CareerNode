@@ -29,8 +29,8 @@ Education
 
 ## __Credits__
 Developers:
-> Corpuz, Neil Patrick V. - Debugger and Web Support
-> Marin, Carl Michael A. - Database Programmer, Web Developer, and Web Support
-> Nimes, Jireh June M. - Designer (Photoshop), Web Developer, and Web Support
-> Punay, John Royce C. - Web Developer and Researcher
+> Corpuz, Neil Patrick V. - Debugger and Web Support, 
+> Marin, Carl Michael A. - Database Programmer, Web Developer, and Web Support, 
+> Nimes, Jireh June M. - Designer (Photoshop), Web Developer, and Web Support, 
+> Punay, John Royce C. - Web Developer and Researcher, and 
 > Savellano, Jerome Bryan Paul P. - Android Programmer, Data Analyst, and System Analyst
