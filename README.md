@@ -12,7 +12,9 @@ If you are looking for a university, institution, or college that can enhance yo
 
 
 *Tools
-1. Sublime Text 2 2. Android Studio 3. Microsoft SQL Server
+1. Sublime Text 2 
+2. Android Studio 
+3. Microsoft SQL Server
 
 *Languages
 1. HTML
