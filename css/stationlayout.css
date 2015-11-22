@@ -1,0 +1,12 @@
+div.feedItem{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.schoollogo{
+    width: 100px;
+    height: 100px;
+}

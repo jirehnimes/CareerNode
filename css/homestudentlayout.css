@@ -1,0 +1,123 @@
+html, body{
+	margin: 0;
+	padding: 0;
+    background-color: rgb(52,52,52);
+}
+
+body{
+    padding-top: 50px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
+hr {
+    max-width: 60%;
+    border-color: rgb(84,178,43);
+    border-width: 3px;
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.namelogo{
+	height: 100%;
+}
+
+.navbar{
+    background-color: rgb(52,52,52);
+    border: 0;
+}
+
+.navbar-right li:nth-child(3){
+    padding: 5px;
+}
+
+div#bs-example-navbar-collapse-1 ul li a{
+    text-transform: uppercase;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+}
+
+div#bs-example-navbar-collapse-1 ul li a:hover,
+div#bs-example-navbar-collapse-1 ul li a:focus{
+    color: green;
+}
+
+#profpic{
+    height: 45px;
+}
+
+#content{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+    color: white;
+    padding: 50px;
+    background-color: green;
+}
+
+#content h1{
+    font-size: 90pt;
+}
+
+#content p{
+    font-size: 30pt;
+}
+
+#studentnav .container-fluid{
+    background-color: rgb(52,52,52);
+    color: white;
+}
+
+#studentnav #mapcontainer{
+    padding: 0;
+    height: 900px;
+}
+
+#studentnav #mapcontainer .form-inline{
+    padding: 10px;
+}
+
+#studentnav #mapcontainer .form-inline .form-group{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#studentnav #map{
+    height: 90%;
+}
+
+#studentnav #navpane{
+    padding: 10px;
+    height: 900px;
+}
+
+#studentnav .nav-tabs li a{
+    color: green;
+    font-weight: 700;
+}
+
+#studentnav #top5div{
+    height: 700px;
+    overflow-y: auto;
+}
+
+footer{
+    background-color: rgb(52,52,52);
+    color: white;
+}
