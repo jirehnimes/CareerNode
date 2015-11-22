@@ -2,7 +2,9 @@
 If you are looking for a university, institution, or college that can enhance your skills, __CareerNode__ can help you!
 
 ## _Screenshots_
-
+![ScrNo1](/images/1.jpg)
+![ScrNo2](/images/2.jpg)
+![ScrNo3](/images/3.jpg)
 
 ## _Tech and Data Used_
 *List of Libraries
