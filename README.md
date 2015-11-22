@@ -1,10 +1,10 @@
-## _CareerNode_
+## __CareerNode__
 If you are looking for a university, institution, or college that can enhance your skills, __CareerNode__ can help you!
 
-## __Screenshots__
+## _Screenshots_
 
 
-## __Tech and Data Used__
+## _Tech and Data Used_
 *List of Libraries
 
 
@@ -27,7 +27,7 @@ If you are looking for a university, institution, or college that can enhance yo
 Education
 
 
-## __Credits__
+## _Credits_
 Developers:
 > Corpuz, Neil Patrick V. - Debugger and Web Support, 
 > Marin, Carl Michael A. - Database Programmer, Web Developer, and Web Support, 
